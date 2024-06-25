@@ -1,5 +1,4 @@
-<p align="center">Full stack developer <br><br> From backend development using Flask/Spring Boot to frontend development using React, I am <strong>passionate to 
-discover new stuffs</strong> and use them to create high quality solutions.&nbsp;
+<p align="center">Full Stack Developer<br><br> With extensive experience in SQL and Python development, I specialize in data analysis and Machine Learning. I am passionate about leveraging new technologies to create high-quality solutions and continuously expanding my skill set.&nbsp;
 
 ![Leonardo GitHub stats](https://github-readme-stats.vercel.app/api?username=renanvj&show_icons=true&theme=tokyonight)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renanvj&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
